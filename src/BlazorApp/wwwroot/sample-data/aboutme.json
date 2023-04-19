@@ -1,14 +1,11 @@
 {
-  "description": "I'm a highly skilled Control & Robotics Engineer with 10+ years of experience in developing 
-    innovative solutions for demanding robotic, fluid dynamic & electrical environments. My expertise includes system modelling, 
-    algorithm design, software engineering, simulation, and optimization of dynamic systems. I possess natural problem-solving
-    abilities and excellent communication skills, making me an asset to any team.",
+  "description": "I'm a highly skilled Control & Robotics Engineer with 10+ years of experience in developing innovative solutions for demanding robotic, fluid dynamic & electrical environments. I possess natural problem-solving abilities and excellent communication skills, making me an asset to any team.",
   "skills": [
     "Programming (C, C++, Python)",
-    "Modelling, Simulation, Control & Optimization",
+    "Modelling, Simulation, ",
     "Machine Learning and DevOps",
-    "Software Engineering Practises",
-    "Systems Engineering Practises (from Use Cases to requirements to architecture to implementation, verification and validation)",
+    "Control & Optimization",
+    "Software & Systems Engineering Practises",
     "Software Architecture and Design"
   ],
   "detailOrQuote": "The passion to improve never ceases."
