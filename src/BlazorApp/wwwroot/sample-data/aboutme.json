@@ -1,12 +1,15 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm a highly skilled Control & Robotics Engineer with 10+ years of experience in developing 
+    innovative solutions for demanding robotic and fluid dynamic environments. My expertise includes system modelling, 
+    algorithm design, software engineering, simulation, and optimization of dynamic systems. I possess natural problem-solving
+    abilities and excellent communication skills, making me an asset to any team.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Programming (C, C++, Python)",
+    "Modelling, Simulation & Control",
+    "Machine Learning and DevOps",
+    "Software Engineering Practises",
+    "Systems Engineering Practises (from Use Cases to requirements to architecture to implementation, verification and validation)"
+    "Software Architecture and Design"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "The passion to improve never ceases."
 }
